@@ -581,6 +581,8 @@ section {
     transition: var(--transition-normal);
 }
 
+/* // simple change */
+
 .skill-category:hover::before {
     opacity: 1;
 }
